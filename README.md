@@ -1,2 +1,7 @@
 # hello-world
-Just another reoistory
+ 
+ Hi There!
+ 
+ Trying to figure out Github and dabble in Powershell.
+ 
+ Cheers!
